@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=3.6
+  - r-tidyverse
+  - r-raster
+  - r-rastervis
+  - r-maps
+  - r-mapdata
+  - r-ncdf4
+  - r-sf
+  - r-httr
+  - r-ggplot2
+  - r-ggrepel
