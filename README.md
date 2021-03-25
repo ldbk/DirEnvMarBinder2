@@ -4,7 +4,7 @@ Dépôt de cours sur les directives européennes touchant au milieu marin et leu
 
 # Environnement de dev basé sur Binder Hub
 
-RStudio : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldbk/DirEnvMarBinder/master?urlpath=rstudio)
+RStudio : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldbk/DirEnvMarBinder2/master?urlpath=rstudio)
 
 # Ressources
 
